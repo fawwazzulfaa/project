@@ -1,0 +1,6 @@
+run code
+
+jalankan perintah server terlebih dahulu "python demo.py -i 127.0.0.1 -p 2000 -s"
+
+selanjutnya jalankan perintah client "python demo.py -i 127.0.0.1 -p 2000" 
+
